@@ -1,0 +1,29 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	width: 30%;
+	border-bottom: 2px solid #f1f1f1;
+	padding-bottom: 20px;
+}
+
+.image {
+    height: 300px;
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+    background-size: cover;
+    background-position: center center;
+ }
+
+ .image1 {
+ 	background-image: url("https://instagram.faep24-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/117174927_2686310668254252_6186306634607019292_n.jpg?_nc_ht=instagram.faep24-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=-4qMnLoyycQAX_1BG9q&_nc_tp=15&oh=eaf5fe3ab3c032bf59fe963d5c950b91&oe=5F78534F");
+ }
